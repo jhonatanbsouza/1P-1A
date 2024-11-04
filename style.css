@@ -1,3 +1,18 @@
 body{
     background-color: violet;
+    color: white;
+}
+
+p{
+    color: black; 
+    font-size: 10px;
+    font-weight: 700; 
+    background-color: aliceblue;
+    padding: 5px;
+    /* * padding -> afastamento interno 
+    * margin -> afastamento externo 
+    * background-color -> cor de fundo
+    * color -> cor da fonte 
+    * font-size -> tamanho da fonte
+    * font-weight -> peso da fonte */
 }
